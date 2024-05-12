@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="shop:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f5af4d9-7e12-4957-af84-09dac472313b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="58" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="false" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/phone_shop" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/phone_shop" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/phone_shop" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="phone_shop: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/phone_shop" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="phone_shop: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/phone_shop" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="phone_shop: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="views" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebContent/jsp/book/booklist.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebContent/jsp/book/header.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/shop/dao/impl/BookDaoImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/shop/dao/impl/OrderDaoImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/shop/dao/impl/UserDaoImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/shop/servlet/book/BookList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/shop/servlet/book/OrderSubServlet.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JspContextManager">
+    <jsp-to-context jsp-file="file://$PROJECT_DIR$/WebContent/jsp/book/header.jsp" context-file="file://$PROJECT_DIR$/WebContent/jsp/book/ureserve.jsp" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29sZgbGqTwnIgIyvFENEf302hEn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/学校文档/大四/学年论文/答辩提交文件/zhenzisms_demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.4045977&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;web.server&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xiangmu\phone shop\shop\WebContent\images\book" />
+      <recent name="E:\0_java\phone shop\shop\WebContent\jsp\book" />
+      <recent name="E:\0_java\phone shop\shop\WebContent\jsp\admin\reserveManage" />
+      <recent name="E:\0_java\phone shop\shop\src\com\shop\servlet\book" />
+      <recent name="E:\0_java\phone shop\shop\src\com\shop\dao\impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\0_java\phone shop\shop\src\com\shop\servlet\admin" />
+      <recent name="E:\0_java\phone shop\shop\src\com\shop\dao\impl" />
+      <recent name="E:\0_java\phone shop\shop\src\com\shop\dao" />
+      <recent name="E:\0_java\phone shop\shop\WebContent\jsp\admin\reserveManage" />
+      <recent name="E:\0_java\phone shop\shop\WebContent\jsp\book" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shop.filter" />
+      <recent name="com.shop.dao.impl" />
+      <recent name="com.shop.dao" />
+      <recent name="com.shop.bean" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat 服务器.Tomcat 9.0.17">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shop.util.Test" />
+      <module name="shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shop.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.17" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.17" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="shop:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/shop" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shop" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60644" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="shop:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat 服务器.Tomcat 9.0.17" />
+      <item itemvalue="应用程序.Test" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.1386612" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="jdbc:mysql://localhost:3306/phone_shop: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="jdbc:mysql://localhost:3306/phone_shop: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@12eccff6" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f5af4d9-7e12-4957-af84-09dac472313b" name="Default Changelist" comment="" />
+      <created>1653903865696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653903865696</updated>
+      <workItem from="1653903871382" duration="8824000" />
+      <workItem from="1653926628006" duration="2262000" />
+      <workItem from="1653929292920" duration="91000" />
+      <workItem from="1653929606212" duration="183000" />
+      <workItem from="1653965922724" duration="6203000" />
+      <workItem from="1653978092515" duration="4175000" />
+      <workItem from="1653983595487" duration="2625000" />
+      <workItem from="1653986283113" duration="16223000" />
+      <workItem from="1654073376655" duration="130530000" />
+      <workItem from="1654434530679" duration="54000" />
+      <workItem from="1654434600212" duration="211000" />
+      <workItem from="1654434967433" duration="7295000" />
+      <workItem from="1654499449654" duration="1838000" />
+      <workItem from="1654572663984" duration="10777000" />
+      <workItem from="1654605887235" duration="1314000" />
+      <workItem from="1662358155659" duration="915000" />
+      <workItem from="1666607827875" duration="113000" />
+      <workItem from="1668161702446" duration="562000" />
+      <workItem from="1669629617082" duration="70000" />
+      <workItem from="1687708812264" duration="187000" />
+      <workItem from="1687709024135" duration="167000" />
+      <workItem from="1687709205679" duration="1938000" />
+      <workItem from="1688357654450" duration="109000" />
+      <workItem from="1688357785616" duration="368000" />
+      <workItem from="1688366826503" duration="641000" />
+      <workItem from="1701780856542" duration="52000" />
+      <workItem from="1709985791922" duration="817000" />
+      <workItem from="1710124158852" duration="1128000" />
+      <workItem from="1710125454189" duration="4819000" />
+      <workItem from="1710136265729" duration="2093000" />
+      <workItem from="1710138396962" duration="309000" />
+      <workItem from="1710138724449" duration="15791000" />
+      <workItem from="1710296965466" duration="24000" />
+      <workItem from="1710301276063" duration="4702000" />
+      <workItem from="1710496327133" duration="73000" />
+      <workItem from="1710835030097" duration="423000" />
+      <workItem from="1711161570755" duration="560000" />
+      <workItem from="1711162153911" duration="232000" />
+      <workItem from="1711162405401" duration="694000" />
+      <workItem from="1711163120355" duration="6495000" />
+      <workItem from="1711176073502" duration="11142000" />
+      <workItem from="1711188503246" duration="1608000" />
+      <workItem from="1711247068499" duration="483000" />
+      <workItem from="1711247587746" duration="8155000" />
+      <workItem from="1711258524634" duration="4623000" />
+      <workItem from="1711275129472" duration="57000" />
+      <workItem from="1711332565293" duration="809000" />
+      <workItem from="1711333417450" duration="164000" />
+      <workItem from="1711333599283" duration="543000" />
+      <workItem from="1711334162574" duration="4553000" />
+      <workItem from="1711339356852" duration="7471000" />
+      <workItem from="1711349353346" duration="2079000" />
+      <workItem from="1711505432126" duration="2191000" />
+      <workItem from="1711511980029" duration="5826000" />
+      <workItem from="1711518009656" duration="3389000" />
+      <workItem from="1711526425962" duration="4913000" />
+      <workItem from="1711612082899" duration="7413000" />
+      <workItem from="1711888107892" duration="4291000" />
+      <workItem from="1711892444930" duration="6847000" />
+      <workItem from="1711899367958" duration="595000" />
+      <workItem from="1711936824924" duration="595000" />
+      <workItem from="1711966677779" duration="8989000" />
+      <workItem from="1712023649190" duration="914000" />
+      <workItem from="1712024667146" duration="13171000" />
+      <workItem from="1712041638171" duration="733000" />
+      <workItem from="1712042396753" duration="4536000" />
+      <workItem from="1712048628087" duration="3610000" />
+      <workItem from="1712053160592" duration="386000" />
+      <workItem from="1712053567334" duration="610000" />
+      <workItem from="1712054199012" duration="1401000" />
+      <workItem from="1712061737474" duration="19338000" />
+      <workItem from="1712081259109" duration="142000" />
+      <workItem from="1712111788918" duration="2737000" />
+      <workItem from="1712114581647" duration="4325000" />
+      <workItem from="1712120031332" duration="400000" />
+      <workItem from="1712122337451" duration="9581000" />
+      <workItem from="1712147616336" duration="3110000" />
+      <workItem from="1712150786986" duration="5624000" />
+      <workItem from="1712204338301" duration="739000" />
+      <workItem from="1712236619326" duration="5243000" />
+      <workItem from="1712284506985" duration="7083000" />
+      <workItem from="1712292686177" duration="4823000" />
+      <workItem from="1712297596902" duration="5344000" />
+      <workItem from="1712303002866" duration="2731000" />
+      <workItem from="1712305810529" duration="4130000" />
+      <workItem from="1712310399827" duration="8887000" />
+      <workItem from="1712319422797" duration="9396000" />
+      <workItem from="1712367723168" duration="1985000" />
+      <workItem from="1712369926022" duration="3789000" />
+      <workItem from="1712480587746" duration="8558000" />
+      <workItem from="1712541556487" duration="1332000" />
+      <workItem from="1712542938124" duration="4003000" />
+      <workItem from="1712547006838" duration="24136000" />
+      <workItem from="1712574995571" duration="502000" />
+      <workItem from="1712580925761" duration="1944000" />
+      <workItem from="1712625882316" duration="2818000" />
+      <workItem from="1712630942851" duration="2502000" />
+      <workItem from="1712712851641" duration="7190000" />
+      <workItem from="1712723473731" duration="618000" />
+      <workItem from="1713103033253" duration="117000" />
+      <workItem from="1713176048408" duration="51000" />
+      <workItem from="1713583706382" duration="127000" />
+      <workItem from="1713585239023" duration="723000" />
+      <workItem from="1713596921807" duration="1883000" />
+      <workItem from="1713883650016" duration="412000" />
+      <workItem from="1713884080596" duration="623000" />
+      <workItem from="1714096150622" duration="13020000" />
+      <workItem from="1714111824483" duration="6017000" />
+      <workItem from="1714117870902" duration="779000" />
+      <workItem from="1714122519788" duration="6814000" />
+      <workItem from="1714134081032" duration="150000" />
+      <workItem from="1714139284828" duration="5339000" />
+      <workItem from="1714182511297" duration="1280000" />
+      <workItem from="1714183947387" duration="9478000" />
+      <workItem from="1714195608602" duration="2065000" />
+      <workItem from="1714200686686" duration="5725000" />
+      <workItem from="1714208108250" duration="1290000" />
+      <workItem from="1714222768732" duration="2929000" />
+      <workItem from="1715480872949" duration="203000" />
+      <workItem from="1715483803613" duration="1374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shop$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1653966464675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

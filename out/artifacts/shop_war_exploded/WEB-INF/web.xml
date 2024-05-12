@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>shop</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+  <context-param>
+    <param-name>maxPageSize</param-name>
+    <param-value>8</param-value>
+  </context-param>
+  <context-param>
+    <param-name>ver</param-name>
+    <param-value>v1.01</param-value>
+  </context-param>
+  <servlet>
+    <servlet-name>admin</servlet-name>
+    <jsp-file>/jsp/admin/index.jsp</jsp-file>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>admin</servlet-name>
+    <url-pattern>/admin</url-pattern>
+  </servlet-mapping>
+<!--  <filter>-->
+<!--    <description>FilterNormal</description>-->
+<!--    <filter-name>FilterNormal</filter-name>-->
+<!--    <filter-class>com.shop.filter.FilterNormal</filter-class>-->
+<!--    &lt;!&ndash;配置FilterDemo02过滤器的初始化参数&ndash;&gt;-->
+<!--  </filter>-->
+<!--  &lt;!&ndash;映射过滤器&ndash;&gt;-->
+<!--  <filter-mapping>-->
+<!--    <filter-name>FilterNormal</filter-name>-->
+<!--    &lt;!&ndash;“/*”表示拦截所有的请求 &ndash;&gt;-->
+<!--    <url-pattern>/*</url-pattern>-->
+<!--    <dispatcher>REQUEST</dispatcher>-->
+<!--  </filter-mapping>-->
+</web-app>
